@@ -61,10 +61,6 @@ In last, you can also see the command and more information on how to use this co
 * [SQlite](https://www.sqlite.org/docs.html) - SQlite (BDD)
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE
 
-## Contributing
-
-* **Joan-Baptiste FERRANDO** (https://www.linkedin.com/in/joan-baptiste-ferrando-980b23290/)
-
 ## Versions
 
 **Last version :** 1.0
@@ -72,12 +68,9 @@ In last, you can also see the command and more information on how to use this co
 ## Author
 
 * **Alexandre Puiseux** _alias_[@AlexandrePuiseux65](https://github.com/AlexandrePuiseux65)
-* **Joan-Baptiste FERRANDO** _alias_[@joan-b-f](https://github.com/joan-b-f)
 
 ## License
 
 Within the scope of the second-year bachelor's project, this tool was crafted to address the requirements of December's Hackathon. Further details can be found in the accompanying license documentation.
 
 [LICENSE](LICENSE)
-
-![Alt Text](https://media.giphy.com/media/3orif4LwcbQhWZVsze/giphy.gif)
