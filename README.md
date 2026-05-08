@@ -1,6 +1,6 @@
-# Generation of Calibration File 
+# Projet Hackathon B2 Grp3 - ECE Paris 🥇
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 The objective of this project is to create an address book using Python and a database
 database to store contact information. 
