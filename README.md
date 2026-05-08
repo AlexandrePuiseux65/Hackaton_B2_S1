@@ -1,4 +1,4 @@
-# Projet Hackathon B2 Grp3 - ECE Paris 🥇
+# Projet Hackathon B2 - ECE Paris 🥇
 
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
